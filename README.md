@@ -7,9 +7,9 @@ Declaro que o presente trabalho contém código desenvolvido exclusivamente por 
 
 (Preencha com seus dados)
 
-- Nome completo: 
-- Username do Github: 
-- Email @inf: 
+- Nome completo: Juan Burtet
+- Username do Github: juan-burtet
+- Email @inf: jburtet@inf.ufpel.edu.br
 
 ## Descrição
 
@@ -33,6 +33,4 @@ __IMPORTANTE__: só modifique o arquivo _tm.c_.
 
 ## Cronograma
 
-* Envio da versão final: _20/10/2017_ 
-
-
+* Envio da versão final: _20/10/2017_
