@@ -32,6 +32,7 @@ uint32_t tempo_medio(uint32_t acesso_l1, float t_miss_l1, uint32_t acesso_l2, fl
 
     tMedio = (uint32_t) aux;
 
+    // Se o número for "quebrado" arredonda pra cima
     if((float) aux - tMedio != 0)
       tMedio++;
 
